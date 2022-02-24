@@ -1,3 +1,5 @@
 <?php
+$firstName = "Ricardo";
+$lastName = "Paulino";
 
-echo("init");
+echo "$lastName, $firstName";
